@@ -1,0 +1,1564 @@
+[
+    {
+        "outputFile": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 7628,
+                        "endLine": 227,
+                        "endColumn": 19,
+                        "endOffset": 7757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3434,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3177,
+                        "endLine": 84,
+                        "endColumn": 19,
+                        "endOffset": 3367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endLine": 85,
+                    "endColumn": 19,
+                    "endOffset": 2295
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4936,
+                        "endLine": 197,
+                        "endColumn": 19,
+                        "endOffset": 6702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2300,
+                    "endLine": 92,
+                    "endColumn": 19,
+                    "endOffset": 2528
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4534,
+                        "endLine": 122,
+                        "endColumn": 19,
+                        "endOffset": 4762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2533,
+                    "endLine": 97,
+                    "endColumn": 19,
+                    "endOffset": 2687
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 4772,
+                        "endLine": 128,
+                        "endColumn": 19,
+                        "endOffset": 4926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2692,
+                    "endLine": 106,
+                    "endColumn": 19,
+                    "endOffset": 2965
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4251,
+                        "endLine": 114,
+                        "endColumn": 19,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 2970,
+                    "endLine": 116,
+                    "endColumn": 19,
+                    "endOffset": 3255
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 7333,
+                        "endLine": 222,
+                        "endColumn": 19,
+                        "endOffset": 7618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3260,
+                    "endLine": 122,
+                    "endColumn": 19,
+                    "endOffset": 3450
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 7767,
+                        "endLine": 234,
+                        "endColumn": 19,
+                        "endOffset": 7957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3455,
+                    "endColumn": 48,
+                    "endOffset": 3499
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 48,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3504,
+                    "endColumn": 48,
+                    "endOffset": 3548
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 48,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3553,
+                    "endColumn": 54,
+                    "endOffset": 3603
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 7967,
+                        "endColumn": 54,
+                        "endOffset": 8017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 3608,
+                    "endColumn": 61,
+                    "endOffset": 3665
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 61,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3670,
+                    "endColumn": 93,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 93,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 48,
+                    "endOffset": 3808
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 48,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3813,
+                    "endColumn": 50,
+                    "endOffset": 3859
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 50,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 3864,
+                    "endColumn": 45,
+                    "endOffset": 3905
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 45,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 3910,
+                    "endColumn": 47,
+                    "endOffset": 3953
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 47,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 3958,
+                    "endColumn": 62,
+                    "endOffset": 4016
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1031,
+                        "endColumn": 62,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4021,
+                    "endColumn": 41,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 41,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endColumn": 40,
+                    "endOffset": 4099
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 6930,
+                        "endColumn": 40,
+                        "endOffset": 6966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 45,
+                    "endOffset": 4145
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 45,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4150,
+                    "endColumn": 61,
+                    "endOffset": 4207
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3372,
+                        "endColumn": 61,
+                        "endOffset": 3429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4212,
+                    "endColumn": 55,
+                    "endOffset": 4263
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endColumn": 55,
+                        "endOffset": 3172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4268,
+                    "endColumn": 36,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 7174,
+                        "endColumn": 36,
+                        "endOffset": 7206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endColumn": 43,
+                    "endOffset": 4344
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2172,
+                        "endColumn": 43,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4349,
+                    "endColumn": 49,
+                    "endOffset": 4394
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2262,
+                        "endColumn": 49,
+                        "endOffset": 2307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4399,
+                    "endColumn": 45,
+                    "endOffset": 4440
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2216,
+                        "endColumn": 45,
+                        "endOffset": 2257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4445,
+                    "endColumn": 43,
+                    "endOffset": 4484
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 43,
+                        "endOffset": 2167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4489,
+                    "endColumn": 45,
+                    "endOffset": 4530
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1841,
+                        "endColumn": 45,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4535,
+                    "endColumn": 73,
+                    "endOffset": 4604
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 73,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4609,
+                    "endColumn": 44,
+                    "endOffset": 4649
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 44,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4654,
+                    "endColumn": 61,
+                    "endOffset": 4711
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 61,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4716,
+                    "endColumn": 55,
+                    "endOffset": 4767
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 55,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 4772,
+                    "endColumn": 59,
+                    "endOffset": 4827
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 7114,
+                        "endColumn": 59,
+                        "endOffset": 7169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 4832,
+                    "endColumn": 56,
+                    "endOffset": 4884
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2045,
+                        "endColumn": 56,
+                        "endOffset": 2097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 4889,
+                    "endColumn": 57,
+                    "endOffset": 4942
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2997,
+                        "endColumn": 57,
+                        "endOffset": 3050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 4947,
+                    "endColumn": 57,
+                    "endOffset": 5000
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2939,
+                        "endColumn": 57,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5005,
+                    "endColumn": 55,
+                    "endOffset": 5056
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 6996,
+                        "endColumn": 55,
+                        "endOffset": 7047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5061,
+                    "endColumn": 61,
+                    "endOffset": 5118
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 7052,
+                        "endColumn": 61,
+                        "endOffset": 7109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5123,
+                    "endColumn": 53,
+                    "endOffset": 5172
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3816,
+                        "endColumn": 53,
+                        "endOffset": 3865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5177,
+                    "endColumn": 59,
+                    "endOffset": 5232
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4135,
+                        "endColumn": 59,
+                        "endOffset": 4190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5237,
+                    "endColumn": 43,
+                    "endOffset": 5276
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4032,
+                        "endColumn": 43,
+                        "endOffset": 4071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5281,
+                    "endColumn": 56,
+                    "endOffset": 5333
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3759,
+                        "endColumn": 56,
+                        "endOffset": 3811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5338,
+                    "endColumn": 48,
+                    "endOffset": 5382
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3924,
+                        "endColumn": 48,
+                        "endOffset": 3968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5387,
+                    "endColumn": 58,
+                    "endOffset": 5441
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3973,
+                        "endColumn": 58,
+                        "endOffset": 4027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5446,
+                    "endColumn": 53,
+                    "endOffset": 5495
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3870,
+                        "endColumn": 53,
+                        "endOffset": 3919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5500,
+                    "endColumn": 53,
+                    "endOffset": 5549
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4076,
+                        "endColumn": 53,
+                        "endOffset": 4125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5554,
+                    "endColumn": 50,
+                    "endOffset": 5600
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4195,
+                        "endColumn": 50,
+                        "endOffset": 4241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5605,
+                    "endColumn": 65,
+                    "endOffset": 5666
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 6789,
+                        "endColumn": 65,
+                        "endOffset": 6850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5671,
+                    "endColumn": 52,
+                    "endOffset": 5719
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1596,
+                        "endColumn": 52,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 5724,
+                    "endColumn": 55,
+                    "endOffset": 5775
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 55,
+                        "endOffset": 1591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 5780,
+                    "endColumn": 71,
+                    "endOffset": 5847
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 71,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 5852,
+                    "endColumn": 88,
+                    "endOffset": 5936
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endColumn": 88,
+                        "endOffset": 3721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 5941,
+                    "endColumn": 50,
+                    "endOffset": 5987
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1887,
+                        "endColumn": 50,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5992,
+                    "endColumn": 53,
+                    "endOffset": 6041
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1938,
+                        "endColumn": 53,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6046,
+                    "endColumn": 50,
+                    "endOffset": 6092
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2854,
+                        "endColumn": 50,
+                        "endOffset": 2900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6097,
+                    "endColumn": 47,
+                    "endOffset": 6140
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2714,
+                        "endColumn": 47,
+                        "endOffset": 2757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6145,
+                    "endColumn": 48,
+                    "endOffset": 6189
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2805,
+                        "endColumn": 48,
+                        "endOffset": 2849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6194,
+                    "endColumn": 42,
+                    "endOffset": 6232
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2762,
+                        "endColumn": 42,
+                        "endOffset": 2800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 6237,
+                    "endColumn": 47,
+                    "endOffset": 6280
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 47,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 6285,
+                    "endColumn": 51,
+                    "endOffset": 6332
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1488,
+                        "endColumn": 51,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6337,
+                    "endColumn": 52,
+                    "endOffset": 6385
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 52,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6390,
+                    "endColumn": 60,
+                    "endOffset": 6446
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 60,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6451,
+                    "endColumn": 65,
+                    "endOffset": 6512
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3055,
+                        "endColumn": 65,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6517,
+                    "endColumn": 99,
+                    "endOffset": 6612
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 7211,
+                        "endColumn": 99,
+                        "endOffset": 7306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6617,
+                    "endColumn": 47,
+                    "endOffset": 6660
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 47,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6665,
+                    "endColumn": 52,
+                    "endOffset": 6713
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 52,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6718,
+                    "endColumn": 60,
+                    "endOffset": 6774
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 60,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6779,
+                    "endColumn": 57,
+                    "endOffset": 6832
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 57,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6837,
+                    "endColumn": 41,
+                    "endOffset": 6874
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 41,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 6879,
+                    "endColumn": 53,
+                    "endOffset": 6928
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 53,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6933,
+                    "endColumn": 57,
+                    "endOffset": 6986
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3579,
+                        "endColumn": 57,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6991,
+                    "endColumn": 74,
+                    "endOffset": 7061
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 6855,
+                        "endColumn": 74,
+                        "endOffset": 6925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 7066,
+                    "endColumn": 55,
+                    "endOffset": 7117
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 6733,
+                        "endColumn": 55,
+                        "endOffset": 6784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 7122,
+                    "endColumn": 69,
+                    "endOffset": 7187
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2414,
+                        "endColumn": 69,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 7192,
+                    "endColumn": 69,
+                    "endOffset": 7257
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2484,
+                        "endColumn": 69,
+                        "endOffset": 2549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 7262,
+                    "endColumn": 67,
+                    "endOffset": 7325
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2346,
+                        "endColumn": 67,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7330,
+                    "endColumn": 66,
+                    "endOffset": 7392
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2617,
+                        "endColumn": 66,
+                        "endOffset": 2679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7397,
+                    "endColumn": 62,
+                    "endOffset": 7455
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2554,
+                        "endColumn": 62,
+                        "endOffset": 2612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7460,
+                    "endColumn": 53,
+                    "endOffset": 7509
+                },
+                "from": {
+                    "file": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 53,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]

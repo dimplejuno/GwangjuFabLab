@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/fragment_watch_control.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_watch_control.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/spinner_simple_item2.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_simple_item2.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/list_filters.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_filters.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/list_message_list.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_message_list.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/list_rss.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_rss.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/spinner_dropdown_simple_item.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_dropdown_simple_item.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/fragment_message_list.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_message_list.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/activity_web_view.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/fragment_rss.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_rss.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/spinner_simple_item.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_simple_item.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/dialog__message_list.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/dialog__message_list.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/fragment_filters.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_filters.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/activity_retro_watch.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_retro_watch.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/dialog_filter_list.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/dialog_filter_list.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/layout/adapter_device_name.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/adapter_device_name.xml"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_stacked_solid_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_stacked_solid_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_ab_focused_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_focused_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_ab_pressed_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_pressed_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_cab_done_pressed_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_pressed_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_pressed_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/list_pressed_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_focused_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/list_focused_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_secondary_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_secondary_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_primary_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_primary_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_focused_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_focused_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_ab_default_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_default_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_bottom_solid_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_bottom_solid_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_solid_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_solid_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_bg_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_bg_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cab_background_top_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/cab_background_top_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_pressed_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_pressed_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cab_background_bottom_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/cab_background_bottom_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_cab_done_focused_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_focused_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_focused_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_focused_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_cab_done_default_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_default_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spinner_ab_disabled_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_disabled_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_pressed_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_texture_tile_example.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_texture_tile_example.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_transparent_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_transparent_example.9.png"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_dropdown_panel_example.9.png",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_example.9.png"
+    }
+]

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.3$Generated" generated="true"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res"/><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/generated/res/rs/debug"/><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/debug/res"/></dataSet><dataSet config="21.0.3" generated-set="21.0.3$Generated"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res"><file name="ab_background_textured_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/ab_background_textured_example.xml" qualifiers="" type="drawable"/><file name="btn_cab_done_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/btn_cab_done_example.xml" qualifiers="" type="drawable"/><file name="form_button_selector" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/form_button_selector.xml" qualifiers="" type="drawable"/><file name="form_button_selector_gray" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/form_button_selector_gray.xml" qualifiers="" type="drawable"/><file name="progress_horizontal_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/progress_horizontal_example.xml" qualifiers="" type="drawable"/><file name="selectable_background_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/selectable_background_example.xml" qualifiers="" type="drawable"/><file name="spinner_background_ab_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/spinner_background_ab_example.xml" qualifiers="" type="drawable"/><file name="tab_indicator_ab_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/tab_indicator_ab_example.xml" qualifiers="" type="drawable"/><file name="ab_bottom_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ab_bottom_solid_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ab_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ab_solid_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ab_stacked_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ab_stacked_solid_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ab_texture_tile_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ab_texture_tile_example.png" qualifiers="hdpi-v4" type="drawable"/><file name="ab_transparent_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ab_transparent_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_cab_done_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/btn_cab_done_default_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_cab_done_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/btn_cab_done_focused_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_cab_done_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/btn_cab_done_pressed_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="cab_background_bottom_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/cab_background_bottom_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="cab_background_top_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/cab_background_top_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/list_focused_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/list_pressed_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_dropdown_panel_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/menu_dropdown_panel_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_bg_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/progress_bg_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_primary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/progress_primary_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_secondary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/progress_secondary_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_ab_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/spinner_ab_default_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_ab_disabled_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/spinner_ab_disabled_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_ab_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/spinner_ab_focused_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_ab_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/spinner_ab_pressed_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_selected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_selected_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_selected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_selected_focused_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_selected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_selected_pressed_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_unselected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_unselected_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_unselected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_unselected_focused_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab_unselected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-hdpi/tab_unselected_pressed_example.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ab_bottom_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ab_bottom_solid_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ab_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ab_solid_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ab_stacked_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ab_stacked_solid_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ab_texture_tile_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ab_texture_tile_example.png" qualifiers="mdpi-v4" type="drawable"/><file name="ab_transparent_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ab_transparent_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_cab_done_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/btn_cab_done_default_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_cab_done_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/btn_cab_done_focused_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_cab_done_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="cab_background_bottom_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/cab_background_bottom_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="cab_background_top_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/cab_background_top_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="list_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/list_focused_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="list_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/list_pressed_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu_dropdown_panel_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/menu_dropdown_panel_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="progress_bg_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/progress_bg_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="progress_primary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/progress_primary_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="progress_secondary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/progress_secondary_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_ab_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/spinner_ab_default_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_ab_disabled_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/spinner_ab_disabled_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_ab_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/spinner_ab_focused_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_ab_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/spinner_ab_pressed_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_selected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_selected_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_selected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_selected_focused_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_selected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_selected_pressed_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_unselected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_unselected_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_unselected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_unselected_focused_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="tab_unselected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-mdpi/tab_unselected_pressed_example.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ab_bottom_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_bottom_solid_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ab_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_solid_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ab_stacked_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_stacked_solid_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ab_texture_tile_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_texture_tile_example.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ab_transparent_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ab_transparent_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_cab_done_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_default_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_cab_done_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_cab_done_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/btn_cab_done_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="cab_background_bottom_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/cab_background_bottom_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="cab_background_top_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/cab_background_top_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/list_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/list_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="menu_dropdown_panel_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="progress_bg_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_bg_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="progress_primary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_primary_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="progress_secondary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/progress_secondary_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="spinner_ab_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_default_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="spinner_ab_disabled_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_disabled_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="spinner_ab_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="spinner_ab_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/spinner_ab_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_selected_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_unselected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_unselected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_unselected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ab_bottom_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ab_bottom_solid_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ab_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ab_solid_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ab_stacked_solid_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ab_stacked_solid_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ab_texture_tile_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ab_texture_tile_example.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ab_transparent_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ab_transparent_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_cab_done_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/btn_cab_done_default_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_cab_done_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/btn_cab_done_focused_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_cab_done_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/btn_cab_done_pressed_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="cab_background_bottom_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/cab_background_bottom_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="cab_background_top_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/cab_background_top_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/list_focused_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/list_pressed_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="menu_dropdown_panel_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/menu_dropdown_panel_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="progress_bg_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/progress_bg_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="progress_primary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/progress_primary_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="progress_secondary_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/progress_secondary_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="spinner_ab_default_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/spinner_ab_default_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="spinner_ab_disabled_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/spinner_ab_disabled_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="spinner_ab_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/spinner_ab_focused_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="spinner_ab_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/spinner_ab_pressed_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_selected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_selected_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_selected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_selected_focused_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_selected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_unselected_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_unselected_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_unselected_focused_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tab_unselected_pressed_example" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_example.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_device_list" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_device_list.xml" qualifiers="" type="layout"/><file name="activity_retro_watch" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_retro_watch.xml" qualifiers="" type="layout"/><file name="activity_web_view" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/activity_web_view.xml" qualifiers="" type="layout"/><file name="adapter_device_name" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/adapter_device_name.xml" qualifiers="" type="layout"/><file name="dialog__message_list" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/dialog__message_list.xml" qualifiers="" type="layout"/><file name="dialog_filter_list" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/dialog_filter_list.xml" qualifiers="" type="layout"/><file name="fragment_filters" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_filters.xml" qualifiers="" type="layout"/><file name="fragment_message_list" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_message_list.xml" qualifiers="" type="layout"/><file name="fragment_rss" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_rss.xml" qualifiers="" type="layout"/><file name="fragment_watch_control" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/fragment_watch_control.xml" qualifiers="" type="layout"/><file name="list_filters" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_filters.xml" qualifiers="" type="layout"/><file name="list_message_list" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_message_list.xml" qualifiers="" type="layout"/><file name="list_rss" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/list_rss.xml" qualifiers="" type="layout"/><file name="spinner_dropdown_simple_item" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_dropdown_simple_item.xml" qualifiers="" type="layout"/><file name="spinner_simple_item" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_simple_item.xml" qualifiers="" type="layout"/><file name="spinner_simple_item2" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/layout/spinner_simple_item2.xml" qualifiers="" type="layout"/><file name="retro_watch" path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/menu/retro_watch.xml" qualifiers="" type="menu"/><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values/colors.xml" qualifiers=""><color name="brown1">#E2674A</color><color name="brown6">#AF371D</color><color name="brown7">#9E321A</color><color name="brown8">#8C2C17</color><color name="brown2">#E05C3E</color><color name="brown3">#DD4D2C</color><color name="brown4">#D34322</color><color name="pink1">#7B0046</color><color name="brown5">#C13D1F</color><color name="pink2">#7B0046</color><color name="pink3">#9E005D</color><color name="pink4">#EC008C</color><color name="pink5">#F06EAA</color><color name="pink6">#F49AC1</color><color name="pink7">#F9BDD8</color><color name="pink8">#FEE3EF</color><color name="deepblue1">#E6E5F8</color><color name="lightblue8">#005B7F</color><color name="lightblue5">#1BB0E8</color><color name="lightblue4">#4EC4F1</color><color name="lightblue7">#0076A3</color><color name="lightblue6">#06A3DE</color><color name="lightblue1">#CBEEFB</color><color name="lightblue3">#76D3F6</color><color name="lightblue2">#A0E0F8</color><color name="blue6">#0072BC</color><color name="blue7">#004A80</color><color name="blue8">#003663</color><color name="blue2">#A3CBF9</color><color name="blue3">#89B9F0</color><color name="blue4">#7DA7D9</color><color name="blue5">#448CCB</color><color name="blue1">#C1DBFA</color><color name="green7">#CEEACA</color><color name="green8">#DFF3DC</color><color name="deeppurple1">#32004B</color><color name="deeppurple2">#440E62</color><color name="deeppurple3">#662D91</color><color name="orange6">#F7BA71</color><color name="orange7">#F6D1A5</color><color name="orange8">#F6E1C8</color><color name="orange2">#9E0B0E</color><color name="orange3">#E3820F</color><color name="orange4">#F7941D</color><color name="orange5">#F7A94D</color><color name="orange1">#7D4900</color><color name="lightgreen4">#C4DF9B</color><color name="yellow6">#FFF568</color><color name="deeppurple4">#8560A8</color><color name="lightgreen3">#DBEFBD</color><color name="yellow7">#FFF799</color><color name="deeppurple5">#A186BE</color><color name="lightgreen2">#EAF9D4</color><color name="yellow4">#ECE007</color><color name="deeppurple6">#BAA4D3</color><color name="lightgreen1">#F4FDE5</color><color name="yellow5">#FEF108</color><color name="deeppurple7">#FFF799</color><color name="lightgreen8">#406618</color><color name="yellow2">#ABA000</color><color name="deeppurple8">#EDE5F7</color><color name="lightgreen7">#598527</color><color name="yellow3">#D3C90C</color><color name="lightgreen6">#8DC63F</color><color name="lightgreen5">#ACD373</color><color name="yellow1">#827B00</color><color name="yellow8">#FEFAC5</color><color name="deepblue5">#605CA8</color><color name="deepblue4">#8781BD</color><color name="deepblue3">#B3AEDD</color><color name="deepblue2">#CECBED</color><color name="deepblue8">#0D004C</color><color name="deepblue7">#1B1464</color><color name="deepblue6">#2E3192</color><color name="red6">#FAB7A3</color><color name="red5">#F69679</color><color name="red8">#FCE1D8</color><color name="red7">#FBD0C3</color><color name="grayd">#DDDDDD</color><color name="grayc">#CCCCCC</color><color name="grayf">#FFFFFF</color><color name="deepgreen7">#B6E9C9</color><color name="graye">#EEEEEE</color><color name="deepgreen8">#D4F5E1</color><color name="deepgreen5">#82CA9C</color><color name="red2">#9E0B0E</color><color name="deepgreen6">#99D8B0</color><color name="red1">#790000</color><color name="grayb">#BBBBBB</color><color name="deepgreen3">#00A651</color><color name="red4">#F26C4F</color><color name="graya">#AAAAAA</color><color name="deepgreen4">#3CB878</color><color name="red3">#E0272E</color><color name="deepgreen1">#005826</color><color name="deepgreen2">#007236</color><color name="gray4">#444444</color><color name="gray3">#333333</color><color name="gray6">#666666</color><color name="purple8">#F9D8FB</color><color name="gray5">#555555</color><color name="gray2">#222222</color><color name="gray1">#111111</color><color name="gray8">#888888</color><color name="gray7">#777777</color><color name="gray9">#999999</color><color name="green1">#005E20</color><color name="green2">#197B30</color><color name="green3">#39B54A</color><color name="green4">#7CC576</color><color name="green5">#A3D39C</color><color name="green6">#C0E5BB</color><color name="purple2">#630460</color><color name="purple3">#32004B</color><color name="purple1">#4B0049</color><color name="purple6">#D7A3DA</color><color name="purple7">#F1B6F4</color><color name="purple4">#A864A8</color><color name="purple5">#BD8CBF</color></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values/strings.xml" qualifiers=""><string name="web_view_name">RSS Browser</string><string name="select_device">Select a device to connect</string><string name="filter_package_name">Package name</string><string name="content_icon">Icon</string><string name="warning_loading_wait">Loading...</string><string name="filter_text_blank">[blank]</string><string name="update_time_title">Set contents update interval</string><string name="msg_rss_update_success">RSS registered</string><string-array name="call_type_array">
+        <item>Call state idle</item>
+        <item>Call received</item>
+    </string-array><string name="warning_type_rss_field">Type URL, Title string</string><string name="rss_find_more">RSS Browser</string><string name="close">Close</string><string name="command_delete">Delete</string><string name="disable_package">Disable this app\'s message</string><string name="settings_background_service">Run in background</string><string name="filter_replace">Replace string (leave blank to erase)</string><string-array name="filter_matching_type_array">
+        <item>Compare method</item>
+        <item>Equals</item>
+        <item>Start with</item>
+        <item>End with</item>
+        <item>Contains</item>
+    </string-array><string name="clock_style_title">Watch clock style</string><string name="noti_set_gmail_addr">Set your Gmail address at WATCH CONTROL tab.</string><string name="email_field_title">Type your Gmail address</string><string name="enable_package">Enable this app\'s message all</string><string name="content_undefined">Undefined</string><string name="warning_type_target">Type comparing string</string><string name="rss_url">Type URL here.</string><string name="text_enabled">Selected message is enabled already. If you want to disable this message, move to Filter tab and delete filter.</string><string name="filter_sendmsg">Send message with </string><string-array name="clock_indicator_array">
+        <item>Select option</item>
+        <item>Visibile</item>
+        <item>Invisible</item>
+    </string-array><string name="email_addr_hint">aaa@gmail.com</string><string-array name="clock_style_array">
+        <item>Select style</item>
+        <item>Simple ANALOG</item>
+        <item>Simple DIGITAL</item>
+        <item>Simple MIX</item>
+        <item>User defined</item>
+    </string-array><string name="noti_receiver_name">RetroWatch noti receiver</string><string name="content_gmail_unread_count">Gmail unread count</string><string name="title_filters">Filters</string><string name="bt_state_init">initializing</string><string name="warning_select_type">Select filtering object type</string><string name="rss_title">Type RSS title</string><string name="batt_type_string">Battery: </string><string name="command_new">New</string><string name="command_add">Add</string><string name="service_name">Retro Watch Service</string><string name="bt_state_error">error</string><string name="warning_select_replace_type">Select replace method</string><string-array name="rf_type_array">
+        <item>In service</item>
+        <item>Out of service</item>
+        <item>Emergency only</item>
+        <item>Power off</item>
+    </string-array><string name="bt_title">Bluetooth</string><string name="bt_cmd_sending_error">Transaction failed</string><string-array name="filter_replace_type_array">
+        <item>Replace method</item>
+        <item>Replace all</item>
+        <item>Replace same part only</item>
+    </string-array><string-array name="filter_icon_type_array">
+        <item>No icon</item>
+        <item>Android</item>
+        <item>ankor</item>
+        <item>apple</item>
+        <item>barcode</item>
+        <item>battery full</item>
+        <item>battery med</item>
+        <item>battery low</item>
+        <item>battery empty</item>
+        <item>bookmark</item>
+        <item>calendar</item>
+        <item>call</item>
+        <item>camera</item>
+        <item>cancel</item>
+        <item>character skull</item>
+        <item>character1</item>
+        <item>character2</item>
+        <item>character3</item>
+        <item>character4</item>
+        <item>chart</item>
+        <item>chat</item>
+        <item>chrome</item>
+        <item>clip</item>
+        <item>clock</item>
+        <item>copy</item>
+        <item>denied</item>
+        <item>document</item>
+        <item>download</item>
+        <item>earth</item>
+        <item>email</item>
+        <item>folder</item>
+        <item>home</item>
+        <item>kittcharacter</item>
+        <item>list</item>
+        <item>movie</item>
+        <item>music</item>
+        <item>navigator</item>
+        <item>pen</item>
+        <item>person</item>
+        <item>picture</item>
+        <item>pill</item>
+        <item>power logo</item>
+        <item>plugged</item>
+        <item>unplugged</item>
+        <item>print</item>
+        <item>umbrella</item>
+        <item>refresh</item>
+        <item>RSS</item>
+        <item>save</item>
+        <item>lock</item>
+        <item>unlock</item>
+        <item>settings</item>
+        <item>smile</item>
+        <item>facebook</item>
+        <item>twitter</item>
+        <item>tag</item>
+        <item>trade</item>
+        <item>trash</item>
+        <item>unknown</item>
+        <item>USIM</item>
+        <item>wait</item>
+        <item>warning</item>
+        <item>wifi</item>
+        <item>windows</item>
+        <item>cloud</item>
+        <item>antenna</item>
+    </string-array><string name="bt_state_connected">connected</string><string name="send_contents">Send data\nto watch</string><string name="title_watchcontrol">Watch Control</string><string-array name="message_type_array">
+        <item>UNDEFINED</item>
+        <item>NOTIFICATION</item>
+        <item>MESSAGING</item>
+        <item>EMERGENCY</item>
+        <item>FEED</item>
+        <!--  Disabled: 
+        <item>SMS RECEIVED</item>
+         -->
+    </string-array><string name="title_paired_devices">Paired Devices</string><string name="refresh_contents">Refresh\ncontents</string><string name="clock_indicator_title">Show indicator?</string><string name="filter_compare_type">Compare type</string><string name="bt_state_connect">connecting</string><string name="bt_not_enabled_leaving">Bluetooth was not enabled. Set the bluetooth enable at phone settings.</string><string name="warning_select_compare_type">Select comparing method</string><string name="button_scan">Scan for devices</string><string name="warning_error_while_adding_rss">Error! Cannot register!</string><string name="bt_state_wait">waiting.. (select a device manually)</string><string name="enable_message">Enable selected message only</string><string name="connect">Connect\na device</string><string name="rss_type_here">Type RSS info below</string><string name="filter_replace_type">Replace type</string><string name="discoverable">Make\ndiscoverable</string><string name="action_settings">App Settings</string><string name="app_name">Retro Watch</string><string name="content_notification">Notification</string><string name="filter_icon">Icon type</string><string name="title_other_devices">Other Available Devices</string><string name="none_paired">No devices have been paired</string><string name="filter_field_converted">convert to:</string><string name="title_rss">RSS</string><string name="filter_object_type">Object type</string><string name="filter_origin">Original string</string><string name="button_go">Go</string><string name="none_found">No devices found</string><string name="scanning">Scanning for devices...</string><string name="noti_settings">Notification\nsetting</string><string-array name="filter_type_array">
+        <item>Object type</item>
+        <item>All type</item>
+        <item>Notification</item>
+        <item>Messaging</item>
+        <item>Feed</item>
+        <item>Emergency</item>
+        <item>Package name</item>
+    </string-array><string name="title_messagelist">Message List</string><string name="command_edit">Edit</string></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values/styles.xml" qualifiers=""><style name="PopupMenu.Example" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_example</item>	
+    </style><style name="AppTheme.FormButtonGray">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#EFEFEF</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:background">@drawable/form_button_selector_gray</item>
+    </style><style name="AppTheme.FormSpinner">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#3F3F3F</item>
+    </style><style name="DropDownNav.Example" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_example</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_example</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_example</item>
+    </style><style name="ActionBarTabStyle.Example" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_example</item>
+    </style><style name="AppTheme.TwoLineListLowerLineText">
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="AppTheme.DialogText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray2</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:lineSpacingExtra">2dip</item>
+    </style><style name="AppTheme.FormTitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:background">#a1a1a1</item>
+    </style><style name="AppTheme.FormText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+    </style><style name="AppTheme.IntroContainer">
+        <item name="android:background">@color/blue6</item>
+    </style><style name="AppTheme.List">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:fadingEdgeLength">3dip</item>
+        <item name="android:divider">#FFFFFF</item>
+        <item name="android:dividerHeight">1px</item>
+    </style><style name="ProgressBar.Example" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_example</item>
+    </style><style name="AppTheme.ListItem">
+        <item name="android:background">#EFEFEF</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:textColor">#111111</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="DropDownListView.Example" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_example</item>
+    </style><style name="ActionBar.Transparent.Example" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_example</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Example</item>
+    </style><style name="AppTheme.FormEditText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:privateImeOptions">defaultInputmode=english;symbol=true</item>
+    </style><style name="AppTheme.FormText.Title">
+        <item name="android:paddingLeft">20dip</item>
+    </style><style name="AppTheme.FormURLEditText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:privateImeOptions">defaultInputmode=english;symbol=true</item>
+    </style><style name="AppTheme.FragmentContainer">
+        <item name="android:background">#FFFFFF</item>
+    </style><style name="AppTheme.ListTitleSmall">
+        <item name="android:textSize">14sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:padding">10dip</item>
+    </style><style name="AppTheme.ConnectionInfoText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/graye</item>
+    </style><style name="ActionButton.CloseMode.Example" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_example</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_example</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Example</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Example</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Example</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Example</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Example</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_example</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_example</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Example</item>
+        
+        <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Example.Widget</item>
+        
+    </style><style name="ActionBar.Solid.Example" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_solid_example</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_example</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_example</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Example</item>
+    </style><style name="AppTheme.ListItemContainer">
+        <item name="android:background">#EFEFEF</item>
+        <item name="android:paddingBottom">2dip</item>
+    </style><style name="AppTheme.IntroTextBig">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/grayf</item>
+    </style><style name="AppTheme.FormContainer">
+        <item name="android:background">#E0E0E0</item>
+        <item name="android:paddingBottom">2dip</item>
+    </style><style name="AppTheme.ConnectionInfoContainer">
+        <item name="android:background">@color/gray3</item>
+    </style><style name="AppTheme.FormButton">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#EFEFEF</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:background">@drawable/form_button_selector</item>
+    </style><style name="AppTheme.IntroTextSmall">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/blue2</item>
+    </style><style name="AppTheme.FormButtonMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#EFEFEF</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:background">@drawable/form_button_selector</item>
+    </style><style name="AppTheme.FormURLButton">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#EFEFEF</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:background">@drawable/form_button_selector</item>
+    </style><style name="AppTheme.TwoLineListUpperLineText">
+        <item name="android:textColor">#444444</item>
+        <item name="android:textSize">12sp</item>
+    </style><style name="Theme.Example.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Example</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Example</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-ko/strings.xml" qualifiers="ko"><string name="warning_type_rss_field">URL, 제목을 입력하세요.</string><string-array name="clock_indicator_array">
+        <item>설정 선택</item>
+        <item>보이기</item>
+        <item>감추기</item>
+    </string-array><string name="connect">연결할 장치 선택</string><string name="warning_type_target">비교할 글자를 입력하세요.</string><string name="service_name">Retro Watch Service</string><string name="rss_find_more">RSS 브라우저</string><string name="content_notification">Notification</string><string name="none_found">발견된 장치가 없습니다.</string><string name="warning_error_while_adding_rss">에러! 등록할 수 없습니다!</string><string name="text_enabled">이미 활성화 된 메시지입니다. 메시지를 삭제하고 싶으시면 필터탭으로 이동해서 해당하는 필터를 삭제하세요.</string><string name="noti_set_gmail_addr">시계 컨트롤 탭에서 Gmail 주소를 입력해야 정확한 정보가 표시됩니다.</string><string name="enable_package">선택한 앱의 메시지 모두를 활성화</string><string name="title_filters">필터 설정</string><string name="msg_rss_update_success">RSS 가 등록되었습니다.</string><string name="command_edit">Edit</string><string name="filter_field_converted">변환된 문자열:</string><string-array name="filter_matching_type_array">
+        <item>비교 방법</item>
+        <item>문자열 일치 할 때</item>
+        <item>입력 문자로 시작할 때</item>
+        <item>입력 문자로 끝날 때</item>
+        <item>입력 문자를 포함할 때</item>
+    </string-array><string name="filter_replace">치환할 문자(비워두면 삭제)</string><string name="filter_replace_type">치환 방법</string><string name="warning_select_replace_type">치환 방법을 선택하세요.</string><string name="rss_url">URL 입력</string><string-array name="message_type_array">
+        <item>UNDEFINED</item>
+        <item>NOTIFICATION</item>
+        <item>MESSAGING</item>
+        <item>EMERGENCY</item>
+        <item>FEED</item>
+        <!--  Disabled: 
+        <item>SMS RECEIVED</item>
+         -->
+    </string-array><string name="clock_indicator_title">시계 인디케이터 표시</string><string name="close">닫기</string><string name="bt_state_error">에러</string><string name="email_field_title">Gmail 주소 입력</string><string-array name="rf_type_array">
+        <item>In service</item>
+        <item>Out of service</item>
+        <item>Emergency only</item>
+        <item>Power off</item>
+    </string-array><string name="bt_state_wait">대기중 (응답 없을 경우 수동 선택)</string><string name="refresh_contents">메시지 새로고침</string><string name="rss_title">RSS 제목 입력</string><string name="warning_loading_wait">로딩중...</string><string name="command_new">New</string><string name="app_name">Retro Watch</string><string name="command_add">Add</string><string name="send_contents">시계로 데이터 전송</string><string name="command_delete">Delete</string><string name="settings_background_service">백그라운드로 실행</string><string name="bt_state_init">초기화 중</string><string name="button_scan">장치 스캔</string><string-array name="filter_replace_type_array">
+        <item>치환 방법</item>
+        <item>전체를 바꿈</item>
+        <item>동일한 부분만 바꿈</item>
+    </string-array><string name="warning_select_compare_type">비교 방법을 선택하세요.</string><string name="enable_message">선택한 메시지만 활성화</string><string-array name="clock_style_array">
+        <item>스타일 선택</item>
+        <item>아날로그</item>
+        <item>디지털</item>
+        <item>혼합</item>
+        <item>사용자 정의</item>
+    </string-array><string name="filter_text_blank">[공백]</string><string name="content_undefined">Undefined</string><string name="email_addr_hint">aaa@gmail.com</string><string name="title_messagelist">메시지 목록</string><string name="filter_compare_type">비교 방법</string><string name="action_settings">앱 설정</string><string name="bt_title">블루투스</string><string name="bt_cmd_sending_error">전송이 실패하였습니다.</string><string name="batt_type_string">Battery: </string><string name="bt_state_connect">연결중</string><string-array name="filter_type_array">
+        <item>대상 메시지 타입</item>
+        <item>모든 타입</item>
+        <item>Notification</item>
+        <item>Messaging</item>
+        <item>Feed</item>
+        <item>Emergency</item>
+        <item>Package name</item>
+    </string-array><string name="button_go">Go</string><string name="noti_receiver_name">RetroWatch noti receiver</string><string name="disable_package">선택한 앱의 메시지 비활성화</string><string name="filter_icon">아이콘</string><string name="none_paired">페어링 된 장치가 없습니다.</string><string name="bt_state_connected">연결됨</string><string name="title_other_devices">사용가능한 다른 장치들</string><string name="clock_style_title">시계 화면 스타일</string><string name="filter_object_type">대상 메시지 타입</string><string name="scanning">장치 찾는 중...</string><string name="noti_settings">알림 권한 설정</string><string name="content_gmail_unread_count">Gmail unread count</string><string name="filter_sendmsg">메시지를 전송 - </string><string name="content_icon">아이콘</string><string name="update_time_title">메시지 업데이트 간격</string><string name="rss_type_here">RSS 추가</string><string-array name="filter_icon_type_array">
+        <item>아이콘 선택</item>
+        <item>안드로이드</item>
+        <item>닻</item>
+        <item>apple</item>
+        <item>바코드</item>
+        <item>배터리 full</item>
+        <item>배터리 med</item>
+        <item>배터리 low</item>
+        <item>배터리 empty</item>
+        <item>북마크</item>
+        <item>캘린더</item>
+        <item>전화</item>
+        <item>카메라</item>
+        <item>취소</item>
+        <item>해골 캐릭터</item>
+        <item>캐릭터1</item>
+        <item>캐릭터2</item>
+        <item>캐릭터3</item>
+        <item>캐릭터4</item>
+        <item>차트</item>
+        <item>대화</item>
+        <item>chrome</item>
+        <item>클립</item>
+        <item>시계</item>
+        <item>복사</item>
+        <item>거부</item>
+        <item>문서</item>
+        <item>다운로드</item>
+        <item>지구</item>
+        <item>이메일</item>
+        <item>폴더</item>
+        <item>home</item>
+        <item>고양이</item>
+        <item>리스트</item>
+        <item>영화</item>
+        <item>음악</item>
+        <item>위치</item>
+        <item>연필</item>
+        <item>사람</item>
+        <item>그림</item>
+        <item>알약</item>
+        <item>전원</item>
+        <item>plugged</item>
+        <item>unplugged</item>
+        <item>프린트</item>
+        <item>우산</item>
+        <item>새로고침</item>
+        <item>RSS</item>
+        <item>저장</item>
+        <item>잠금</item>
+        <item>풀림</item>
+        <item>settings</item>
+        <item>smile</item>
+        <item>facebook</item>
+        <item>twitter</item>
+        <item>tag</item>
+        <item>trade</item>
+        <item>휴지통</item>
+        <item>unknown</item>
+        <item>USIM</item>
+        <item>대기</item>
+        <item>경고</item>
+        <item>wifi</item>
+        <item>windows</item>
+        <item>cloud</item>
+        <item>안테나</item>
+    </string-array><string name="bt_not_enabled_leaving">블루투스가 활성화 되지 않았습니다. 폰 설정에서 블루투스를 활성화 시키세요.</string><string name="web_view_name">RSS Browser</string><string name="discoverable">Discover 상태로 변경</string><string name="warning_select_type">필터링할 메시지 타입이 필요합니다.</string><string name="title_rss">RSS</string><string-array name="call_type_array">
+        <item>Call state idle</item>
+        <item>Call received</item>
+    </string-array><string name="title_watchcontrol">시계 컨트롤</string><string name="select_device">연결할 장치 선택</string><string name="title_paired_devices">페어링 된 장치</string><string name="filter_origin">비교할 문자</string></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/generated/res/rs/debug"/><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/debug/res"/></dataSet><mergedItems/></merger>

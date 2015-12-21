@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/btn_cab_done_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/btn_cab_done_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/progress_horizontal_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/tab_indicator_ab_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/spinner_background_ab_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/spinner_background_ab_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/form_button_selector.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/form_button_selector.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/ab_background_textured_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/ab_background_textured_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/selectable_background_example.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/selectable_background_example.xml"
+    },
+    {
+        "merged": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/build/intermediates/res/merged/debug/drawable/form_button_selector_gray.xml",
+        "source": "/Users/dimplejuno/Developments/Arduino/Sketches/retrowatch/RetroWatch_Android/RetroWatchStudio/app/src/main/res/drawable/form_button_selector_gray.xml"
+    }
+]
