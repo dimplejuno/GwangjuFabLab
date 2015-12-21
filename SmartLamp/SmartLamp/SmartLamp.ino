@@ -9,7 +9,7 @@
 #define PIN            10
 
 // How many NeoPixels are attached to the Arduino?
-#define NUMPIXELS      8
+#define NUMPIXELS      12
 
 // When we setup the NeoPixel library, we tell it how many pixels, and which pin to use to send signals.
 // Note that for older NeoPixel strips you might need to change the third parameter--see the strandtest
@@ -34,13 +34,16 @@ void setup(){
   while (BT.available() > 0) {
 
     // look for the next valid integer in the incoming serial stream:
-    red = BT.parseInt(); 
+    red = BT.parseInt(); // 255,0,0
     
     // do it again:
     green = BT.parseInt(); 
     
     // do it again:
     blue = BT.parseInt(); 
+
+    // fill strip
+    //colorSet(pixels.Color(red, green, blue), 0); 
 
     // look for the newline. That's the end of your
     // sentence:

@@ -1,5 +1,6 @@
 #include <SoftwareSerial.h>
 
+// hc-06 
 #define rxPin 3
 #define txPin 2
 
@@ -27,7 +28,7 @@ void loop(){
     } else if(myChar == 'F' || myChar == 'f') {
       digitalWrite(led, LOW);
     }
-
+    // delay(1000);
     Serial.print(myChar);
   }
 }

@@ -85,6 +85,7 @@ public class ledControl extends ActionBarActivity {
             }
         });
 
+        // 빨강값이 변하면 호출되는 리스너
         redBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
@@ -92,6 +93,7 @@ public class ledControl extends ActionBarActivity {
                     //lumnRed.setText(String.valueOf(progress));
                     try {
 
+                        // 문자열 255,0,0
                         String colorString = redBar.getProgress() + "," +
                                 greenBar.getProgress() + "," +
                                 blueBar.getProgress()+"\n";
