@@ -45,7 +45,7 @@ U8GLIB_SH1106_128X64 u8g(13, 11, 10, 9);
 
 ///////////////////////////////////////////////////////////////////
 //----- BT instance
-SoftwareSerial BTSerial(2, 3); //Connect HC-06, RX, TX
+SoftwareSerial BTSerial(3, 2); //Connect HC-06, RX, TX
 ///////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////
@@ -174,8 +174,8 @@ void setup()   {
   //Serial.println(F("RetroWatch v1.0 u8g"));
 
   //----- Set OLED reset pin HIGH
-  pinMode(9, OUTPUT);
-  digitalWrite(9, HIGH);
+  //pinMode(9, OUTPUT);
+  //digitalWrite(9, HIGH);
 
   //----- Set button
   //pinMode(buttonPin, INPUT);  // Defines button pin
