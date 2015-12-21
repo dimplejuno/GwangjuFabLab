@@ -51,6 +51,7 @@ SoftwareSerial BTSerial(3, 2); //Connect HC-06, RX, TX
 ///////////////////////////////////////////////////////////////////
 //----- Protocol
 
+// 트랜잭션 파싱에 사용되는 분류 모드 
 //----- Bluetooth transaction parsing
 #define TR_MODE_IDLE 1
 #define TR_MODE_WAIT_CMD 11
@@ -59,9 +60,13 @@ SoftwareSerial BTSerial(3, 2); //Connect HC-06, RX, TX
 #define TR_MODE_WAIT_ID 121
 #define TR_MODE_WAIT_COMPLETE 201
 
+// 트랜잭션 시작 바이트 
 #define TRANSACTION_START_BYTE 0xfc
+
+// 트랜잭션 끝 바이트 
 #define TRANSACTION_END_BYTE 0xfd
 
+// 코맨드의 종류를 설정함 각각 하나의 바이트로 구성
 #define CMD_TYPE_NONE 0x00
 #define CMD_TYPE_RESET_EMERGENCY_OBJ 0x05
 #define CMD_TYPE_RESET_NORMAL_OBJ 0x02
@@ -85,7 +90,10 @@ SoftwareSerial BTSerial(3, 2); //Connect HC-06, RX, TX
 #define CMD_TYPE_SLEEP 0x53
 #define CMD_TYPE_REBOOT 0x54
 
+// 트랜잭션의 포인터 
 byte TRANSACTION_POINTER = TR_MODE_IDLE;
+
+// 코맨드 
 byte TR_COMMAND = CMD_TYPE_NONE;
 ///////////////////////////////////////////////////////////////////
 
@@ -108,8 +116,9 @@ char emgParsingLine = 0;
 char emgParsingChar = 0;
 char emgCurDisp = 0;
 
-//----- Time
+//----- 업데이트 타임 기본 1분 : Time
 #define UPDATE_TIME_INTERVAL 60000
+
 byte iMonth = 1;
 byte iDay = 1;
 byte iWeek = 1;    // 1: SUN, MON, TUE, WED, THU, FRI,SAT
@@ -118,22 +127,25 @@ byte iHour = 0;
 byte iMinutes = 0;
 byte iSecond = 0;
 
+// 시간 버퍼는 6개 
 #define TIME_BUFFER_MAX 6
 char timeParsingIndex = 0;
 char timeBuffer[6] = {-1, -1, -1, -1, -1, -1};
+
 PROGMEM  char* const weekString[] = {"", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
 PROGMEM  char* const ampmString[] = {"AM", "PM"};
 ///////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////
-//----- Display features
-#define DISPLAY_MODE_START_UP 0
-#define DISPLAY_MODE_CLOCK 1
-#define DISPLAY_MODE_EMERGENCY_MSG 2
-#define DISPLAY_MODE_NORMAL_MSG 3
-#define DISPLAY_MODE_IDLE 11
-byte displayMode = DISPLAY_MODE_START_UP;
+//----- Display features 디스플레이 모드 : 
+#define DISPLAY_MODE_START_UP 0         // 시작
+#define DISPLAY_MODE_CLOCK 1            // 시계
+#define DISPLAY_MODE_EMERGENCY_MSG 2    // 응급 메세지
+#define DISPLAY_MODE_NORMAL_MSG 3       // 일반 메세지 
+#define DISPLAY_MODE_IDLE 11            // 아이들 
+byte displayMode = DISPLAY_MODE_START_UP; // 디스플레이모드 
 
+// 시계 스타일 
 #define CLOCK_STYLE_SIMPLE_ANALOG  0x01
 #define CLOCK_STYLE_SIMPLE_DIGIT  0x02
 #define CLOCK_STYLE_SIMPLE_MIX  0x03
@@ -150,11 +162,13 @@ byte iRadius = 28;
 #define CLOCK_DISP_INTERVAL 60000
 #define EMERGENCY_DISP_INTERVAL 5000
 #define MESSAGE_DISP_INTERVAL 3000
+
 unsigned long prevClockTime = 0;
 unsigned long prevDisplayTime = 0;
 
 unsigned long next_display_interval = 0;
 unsigned long mode_change_timer = 0;
+
 #define CLOCK_DISPLAY_TIME 300000
 #define EMER_DISPLAY_TIME 10000
 #define MSG_DISPLAY_TIME 5000
@@ -170,8 +184,8 @@ boolean isClicked = HIGH;
 
 
 void setup()   {
-  //Serial.begin(9600);    // WARNING: Do not enable this if there is not enough memory
-  //Serial.println(F("RetroWatch v1.0 u8g"));
+  Serial.begin(9600);    // WARNING: Do not enable this if there is not enough memory
+  Serial.println(F("RetroWatch v1.0 u8g"));
 
   //----- Set OLED reset pin HIGH
   //pinMode(9, OUTPUT);
@@ -197,14 +211,15 @@ void setup()   {
   delay(3000);
 }
 
-
+// 메인 루프 
 void loop() {
   boolean isReceived = false;
   unsigned long current_time = 0;
   
   // Get button input
   //if(digitalRead(buttonPin) == LOW) isClicked = LOW;
-  
+
+  // 데이타 수신 및 파싱 
   // Receive data from remote and parse
   isReceived = receiveBluetoothData();
   
@@ -214,7 +229,8 @@ void loop() {
   
   // Display routine
   onDraw(current_time);
-  
+
+  // 데이타가 없으면 잠기 기다리면서 배터리를 절약함 
   // If data doesn't arrive, wait for a while to save battery
   if(!isReceived)
     delay(300);
@@ -224,7 +240,7 @@ void loop() {
 
 
 ///////////////////////////////////
-//----- Utils
+//----- Utils 초기화 하기 
 ///////////////////////////////////
 void init_msg_array() {
   for(int i=0; i<MSG_COUNT_MAX; i++) {
@@ -249,7 +265,7 @@ void init_emg_array() {
 }
 
 ///////////////////////////////////
-//----- Time functions
+//----- 시간 설정하기 Time functions
 ///////////////////////////////////
 void setTimeValue() {
   iMonth = timeBuffer[0];
@@ -260,22 +276,30 @@ void setTimeValue() {
   iMinutes = timeBuffer[5];
 }
 
+// 시간 업데이트 하기 
 void updateTime(unsigned long current_time) {
   if(iMinutes >= 0) {
+    // 1분의 인터벌이 지났는지 확인 
     if(current_time - prevClockTime > UPDATE_TIME_INTERVAL) {
       // Increase time
       iMinutes++;
+      
       if(iMinutes >= 60) {
         iMinutes = 0;
         iHour++;
+
+        // 시간을 확인 
         if(iHour > 12) {
           iHour = 1;
+          // 오전 오후 확인 
           (iAmPm == 0) ? iAmPm=1 : iAmPm=0;
+          // 날짜가 바뀌는지 확인 
           if(iAmPm == 0) {
             iWeek++;
             if(iWeek > 7)
               iWeek = 1;
             iDay++;
+            // 날짜 확인..
             if(iDay > 30)  // Yes. day is not exact.
               iDay = 1;
           }
@@ -291,27 +315,33 @@ void updateTime(unsigned long current_time) {
 
 ///////////////////////////////////
 //----- BT, Data parsing functions
+//------블루투스 데이타 파싱하기 
 ///////////////////////////////////
 
 // Parsing packet according to current mode
 boolean receiveBluetoothData() {
   int isTransactionEnded = false;
+  
   while(!isTransactionEnded) {
     if(BTSerial.available()) {
       byte c = BTSerial.read();
       
       //if(c == 0xFE && TRANSACTION_POINTER != TR_MODE_WAIT_MESSAGE) return false;
-      
+
+      // 트랜잭션의 포인터 아이들 
       if(TRANSACTION_POINTER == TR_MODE_IDLE) {
+        // 트랜잭션 시작하기..
         parseStartSignal(c);
       }
       else if(TRANSACTION_POINTER == TR_MODE_WAIT_CMD) {
+        // 코맨드 파싱 
         parseCommand(c);
       }
       else if(TRANSACTION_POINTER == TR_MODE_WAIT_MESSAGE) {
         parseMessage(c);
       }
       else if(TRANSACTION_POINTER == TR_MODE_WAIT_TIME) {
+        // 시간 설정하기 
         parseTime(c);
       }
       else if(TRANSACTION_POINTER == TR_MODE_WAIT_ID) {
@@ -327,22 +357,31 @@ boolean receiveBluetoothData() {
     }
   }  // End of while()
   return true;
+  
 }  // End of receiveBluetoothData()
 
+// 시리얼로 입력된 문자열 파싱 시작하기 
 void parseStartSignal(byte c) {
   //drawLogChar(c);
+
+  // 트랜잭션 시작 바이트이면 시작을 나타냄 
   if(c == TRANSACTION_START_BYTE) {
+
+    // 트랜잭션 포인터를 코맨드 대기로 설정
     TRANSACTION_POINTER = TR_MODE_WAIT_CMD;
+    
     TR_COMMAND = CMD_TYPE_NONE;
   }
 }
 
+// 코맨드 파싱을 시작함...
 void parseCommand(byte c) {
+  // 리셋 코맨드들 처리 
   if(c == CMD_TYPE_RESET_EMERGENCY_OBJ || c == CMD_TYPE_RESET_NORMAL_OBJ || c == CMD_TYPE_RESET_USER_MESSAGE) {
     TRANSACTION_POINTER = TR_MODE_WAIT_COMPLETE;
     TR_COMMAND = c;
     processTransaction();
-  }
+  } // 추가 코맨드 처리하기 
   else if(c == CMD_TYPE_ADD_EMERGENCY_OBJ || c == CMD_TYPE_ADD_NORMAL_OBJ || c == CMD_TYPE_ADD_USER_MESSAGE) {
     TRANSACTION_POINTER = TR_MODE_WAIT_MESSAGE;
     TR_COMMAND = c;
@@ -362,25 +401,26 @@ void parseCommand(byte c) {
       for(int i=3; i<MSG_BUFFER_MAX; i++)
         msgBuffer[msgParsingLine][i] = 0x00;
     }
-  }
+  } // 삭제 코맨드 처리하기
   else if(c == CMD_TYPE_DELETE_EMERGENCY_OBJ || c == CMD_TYPE_DELETE_NORMAL_OBJ || c == CMD_TYPE_DELETE_USER_MESSAGE) {
     TRANSACTION_POINTER = TR_MODE_WAIT_COMPLETE;
     TR_COMMAND = c;
-  }
+  } // 시간 설정하기 
   else if(c == CMD_TYPE_SET_TIME) {
     TRANSACTION_POINTER = TR_MODE_WAIT_TIME;
     TR_COMMAND = c;
-  }
+  } // 시간 종류 설정하기 
   else if(c == CMD_TYPE_SET_CLOCK_STYLE || c == CMD_TYPE_SET_INDICATOR) {
     TRANSACTION_POINTER = TR_MODE_WAIT_ID;
     TR_COMMAND = c;
   }
-  else {
+  else { // 해당하는 코맨드가 없으면 처음으로..
     TRANSACTION_POINTER = TR_MODE_IDLE;
     TR_COMMAND = CMD_TYPE_NONE;
   }
 }
 
+// 메세지 처리하기 
 void parseMessage(byte c) {
   if(c == TRANSACTION_END_BYTE) {
     processTransaction();
@@ -417,7 +457,9 @@ void parseMessage(byte c) {
   }
 }
 
+// 시간 처리하기 
 void parseTime(byte c) {
+  // 시간을 설정하기 
   if(TR_COMMAND == CMD_TYPE_SET_TIME) {
     if(timeParsingIndex >= 0 && timeParsingIndex < TIME_BUFFER_MAX) {
       timeBuffer[timeParsingIndex] = (int)c;
@@ -430,6 +472,7 @@ void parseTime(byte c) {
   }
 }
 
+// 아이디 처리하기 
 void parseId(byte c) {
   if(TR_COMMAND == CMD_TYPE_SET_CLOCK_STYLE) {
     clockStyle = c;
@@ -445,6 +488,7 @@ void parseId(byte c) {
   TRANSACTION_POINTER = TR_MODE_WAIT_COMPLETE;
 }
 
+// 파싱 끝을 알림
 boolean parseEndSignal(byte c) {
   if(c == TRANSACTION_END_BYTE) {
     TRANSACTION_POINTER = TR_MODE_IDLE;
@@ -453,14 +497,15 @@ boolean parseEndSignal(byte c) {
   return false;
 }
 
+// 트랜잭션 처리하기 
 void processTransaction() {
-  if(TR_COMMAND == CMD_TYPE_RESET_EMERGENCY_OBJ) {
+  if(TR_COMMAND == CMD_TYPE_RESET_EMERGENCY_OBJ) { // 
     init_emg_array();//init_msg_array();
   }
-  else if(TR_COMMAND == CMD_TYPE_RESET_NORMAL_OBJ) {
+  else if(TR_COMMAND == CMD_TYPE_RESET_NORMAL_OBJ) { // 
     init_msg_array();//init_emg_array();
   }
-  else if(TR_COMMAND == CMD_TYPE_RESET_USER_MESSAGE) {
+  else if(TR_COMMAND == CMD_TYPE_RESET_USER_MESSAGE) { // 사용자 메세지 처리는 아직..
     // Not available yet.
   }
   else if(TR_COMMAND == CMD_TYPE_ADD_NORMAL_OBJ) {
@@ -471,6 +516,7 @@ void processTransaction() {
     msgParsingLine++;
     if(msgParsingLine >= MSG_COUNT_MAX)
       msgParsingLine = 0;
+      // 즉시 시간 출력 
     setNextDisplayTime(millis(), 0);  // update screen immediately
   }
   else if(TR_COMMAND == CMD_TYPE_ADD_EMERGENCY_OBJ) {
@@ -482,6 +528,8 @@ void processTransaction() {
     if(emgParsingLine >= EMG_COUNT_MAX)
       emgParsingLine = 0;
     startEmergencyMode();
+
+    // 2초후에 시간 출력 
     setNextDisplayTime(millis(), 2000);
   }
   else if(TR_COMMAND == CMD_TYPE_ADD_USER_MESSAGE) {
@@ -489,12 +537,15 @@ void processTransaction() {
   else if(TR_COMMAND == CMD_TYPE_DELETE_EMERGENCY_OBJ || TR_COMMAND == CMD_TYPE_DELETE_NORMAL_OBJ || TR_COMMAND == CMD_TYPE_DELETE_USER_MESSAGE) {
     // Not available yet.
   }
-  else if(TR_COMMAND == CMD_TYPE_SET_TIME) {
+  else if(TR_COMMAND == CMD_TYPE_SET_TIME) { // 시간 설정하기 코맨드 
     setTimeValue();
     timeParsingIndex = 0;
+
+    // 즉시 시간업데이트 출력 
     setNextDisplayTime(millis(), 0);  // update screen immediately
   }
   if(TR_COMMAND == CMD_TYPE_SET_CLOCK_STYLE || CMD_TYPE_SET_INDICATOR) {
+    // 즉시 시간업데이트 출력 
     setNextDisplayTime(millis(), 0);  // update screen immediately
   }
 }
@@ -592,10 +643,12 @@ boolean isDisplayTime(unsigned long currentTime) {
   if(currentTime - prevDisplayTime > next_display_interval) {
     return true;
   }
+  
   if(isClicked == LOW) {
     delay(500);
     return true;
   }
+  
   return false;
 }
 
@@ -675,10 +728,12 @@ int countMessage() {
   return count;
 }
 
+// 시계 모드 시작하기 
 void startClockMode() {
   displayMode = DISPLAY_MODE_CLOCK;
 }
 
+// 응급 모드 시작하기 
 void startEmergencyMode() {
   displayMode = DISPLAY_MODE_EMERGENCY_MSG;
   emgCurDisp = 0;
@@ -764,7 +819,7 @@ void drawStartUp() {
   startClockMode();
 }
 
-// Draw emergency message page
+// 응급 메세지 그리기. Draw emergency message page
 void drawEmergency() {
   // get icon index
   int icon_num = 60;
@@ -870,13 +925,17 @@ void drawClock() {
       u8g.setFontPosTop();
       u8g.drawStr(centerX - 29, centerY + 6, buff);
     }
-    // CLOCK_STYLE_SIMPLE_MIX
+    // CLOCK_STYLE_SIMPLE_MIX 혼합 그리기 
     else if(clockStyle == CLOCK_STYLE_SIMPLE_MIX) {
       u8g.drawCircle(centerY, centerY, iRadius - 6);
+
+      // 시침 그리기
       showTimePin(centerY, centerY, 0.1, 0.4, iHour*5 + (int)(iMinutes*5/60));
+
+      // 분침 그리기 
       showTimePin(centerY, centerY, 0.1, 0.70, iMinutes);
       
-      // Show text
+      // 요일과 오전 오후 보기 ㄹ Show text
       u8g.setFont(u8g_font_fixed_v0);
       u8g.setFontRefHeightExtendedText();
       u8g.setDefaultForegroundColor();
@@ -900,11 +959,13 @@ void drawClock() {
       u8g.setFontRefHeightExtendedText();
       u8g.setDefaultForegroundColor();
       u8g.setFontPosTop();
+      
       u8g.drawStr(centerX, 37, buff);
     }
     else {
-      // CLOCK_STYLE_SIMPLE_ANALOG.
+      // 아날로그 시계 CLOCK_STYLE_SIMPLE_ANALOG.
       u8g.drawCircle(centerX, centerY, iRadius);
+      
       showTimePin(centerX, centerY, 0.1, 0.5, iHour*5 + (int)(iMinutes*5/60));
       showTimePin(centerX, centerY, 0.1, 0.78, iMinutes);
       
@@ -915,7 +976,7 @@ void drawClock() {
   
 }
 
-// Draw idle page
+// Draw idle page 아이들 페이지 그리기 
 void drawIdleClock() {
   // picture loop  
   u8g.firstPage();  
@@ -924,7 +985,8 @@ void drawIdleClock() {
     // draw indicator
     if(updateIndicator)
       drawIndicator();
-    // show time
+      
+    // 시간 표시하기 show time
     String strDate = String("");
     char buff[6];
     if(iHour < 10)
@@ -934,8 +996,10 @@ void drawIdleClock() {
     if(iMinutes < 10)
       strDate += "0";
     strDate += iMinutes;
+
+    // 스트링을 버퍼에 쓰기 
     strDate.toCharArray(buff, 6);
-    buff[5] = 0x00;
+    buff[5] = 0x00; // 마지막에 엔딩 추가하기 
     
     u8g.setFont(u8g_font_courB14);
     u8g.setFontRefHeightExtendedText();
@@ -973,8 +1037,10 @@ int getCenterAlignedXOfEmg(int emgIndex) {
 }
 
 // Calculate clock pin position
-double RAD=3.141592/180;
+double RAD=3.141592/180; // 
 double LR = 89.99;
+
+// 시계 바늘 그리기 
 void showTimePin(int center_x, int center_y, double pl1, double pl2, double pl3) {
   double x1, x2, y1, y2;
   x1 = center_x + (iRadius * pl1) * cos((6 * pl3 + LR) * RAD);
@@ -990,7 +1056,8 @@ void drawIcon(int posx, int posy, int icon_num) {
   if(icon_num < 0 || icon_num >= ICON_ARRAY_SIZE)
     return;
 
-  u8g.drawBitmapP( posx, posy, 2, 16, (const unsigned char*)pgm_read_word(&(bitmap_array[icon_num])));
+  // u8g.drawBitmapP( posx, posy, 2, 16, (const unsigned char*)pgm_read_word(&(bitmap_array[icon_num])));
+  u8g.drawBitmapP( posx, posy, 2, 16, (const unsigned char*)bitmap_array[icon_num]);
 }
 
 // U8glib Initialization
