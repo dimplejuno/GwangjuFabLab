@@ -9,12 +9,15 @@ char myChar ;
 
 const int led = 13;
 
+String inputString = "";         // a string to hold incoming data
+boolean stringComplete = false;
+
 void setup() {
   Serial.begin(9600);   
   Serial.println("Goodnight moon!");
 
   mySerial.begin(9600);
-  mySerial.println("Hello, world?");
+  mySerial.println("Hello? It's me");
 
   pinMode(led, OUTPUT);
 }
@@ -30,5 +33,5 @@ void loop(){
     }
     // delay(1000);
     Serial.print(myChar);
-  }
+    
 }
