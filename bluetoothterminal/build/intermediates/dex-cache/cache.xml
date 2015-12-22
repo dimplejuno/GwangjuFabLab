@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dimplejuno/Developments/Android/JunoWorks/bluetooth-spp-terminal/bluetooth-spp-terminal/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/dimplejuno/Developments/Android/JunoWorks/bluetooth-spp-terminal/bluetooth-spp-terminal/build/intermediates/pre-dexed/debug/classes-293d39ec36ed018e9516c2c75fdef9a527505ba2.jar" />
+    </item>
+
+</items>
